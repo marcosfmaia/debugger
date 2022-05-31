@@ -1,6 +1,6 @@
 ![](./assets/hd-header.png)
 
-## Como debugar seu código
+## Debugar seu código
 
 <details>
   <summary>1. Você sabe o que é Debugar?</summary>
